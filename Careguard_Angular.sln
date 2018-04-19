@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Careguard_Angular", "Careguard_Angular\Careguard_Angular.csproj", "{040DAA6D-AB34-42DB-98E7-47FB279A36B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040DAA6D-AB34-42DB-98E7-47FB279A36B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040DAA6D-AB34-42DB-98E7-47FB279A36B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040DAA6D-AB34-42DB-98E7-47FB279A36B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040DAA6D-AB34-42DB-98E7-47FB279A36B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B886F656-7526-47C0-AAE7-2DD3457C17E7}
+	EndGlobalSection
+EndGlobal
